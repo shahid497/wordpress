@@ -1,0 +1,36 @@
+2019-06-24T03:52:16+00:00 CRITICAL Uncaught Error: Call to undefined function is_woocommerce_activated() in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php:19
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(286): storefront_product_categories('')
+#1 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\store\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\store\wp-content\themes\on-sale\template-homepage.php(29): do_action('homepage')
+#4 C:\xampp\htdocs\store\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php on line 19
+
+2019-06-24T03:52:41+00:00 CRITICAL Uncaught Error: Call to undefined function is_woocommerce_activated() in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php:19
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(286): storefront_product_categories('')
+#1 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\store\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\store\wp-content\themes\on-sale\template-homepage.php(29): do_action('homepage')
+#4 C:\xampp\htdocs\store\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php on line 19
+
+2019-06-24T03:55:27+00:00 CRITICAL Uncaught Error: Call to undefined function is_woocommerce_activated() in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php:19
+Stack trace:
+#0 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(286): storefront_product_categories('')
+#1 C:\xampp\htdocs\store\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 C:\xampp\htdocs\store\wp-includes\plugin.php(453): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\store\wp-content\themes\on-sale\template-homepage.php(29): do_action('homepage')
+#4 C:\xampp\htdocs\store\wp-includes\template-loader.php(74): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\store\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\store\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\store\wp-content\themes\on-sale\inc\structure\template-tags.php on line 19
+
